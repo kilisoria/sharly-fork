@@ -5,7 +5,7 @@ const FeedPage = () => {
   return (
     <>
       <Head>
-        <title>Feed</title>
+        <title>Feed Manager</title>
       </Head>
       <Feed />
     </>
