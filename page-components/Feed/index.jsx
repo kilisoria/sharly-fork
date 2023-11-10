@@ -8,6 +8,7 @@ import HomeCardSettings from "../Settings/Component";
 export const Feed = () => {
   return (
     <div className={styles.root}>
+      <h1>Eyyyy</h1>
       <img alt="" src="/png/pcDonation.png" />
       <CategoryList />
       <HomeCardSettings />
